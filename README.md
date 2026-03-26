@@ -1,6 +1,3 @@
- Improving Translation Quality using SGD, Adam, RMSProp & Adagrad  
- IIT Jodhpur | Machine Learning Project  
-
 ##  Overview
 This project presents a **comparative analysis of optimization algorithms** used in **Neural Machine Translation (NMT)** systems, specifically for the **English–Hindi language pair**.
 We implemented a **Sequence-to-Sequence (Seq2Seq) model with Attention** and evaluated how different optimizers impact translation quality and training stability.
@@ -55,7 +52,7 @@ We implemented a **Sequence-to-Sequence (Seq2Seq) model with Attention** and eva
 | SGD      | 5.76      | Baseline   |
 | Adam     | 9.79      | +69.97%    |
 | Adagrad  | 13.73     | +138.37%   |
-| RMSProp  | **17.63** | 🚀 +206.08% |
+| RMSProp  | **17.63** | +206.08% |
 
 ##  Key Findings
 - **RMSProp achieved highest translation quality**  
